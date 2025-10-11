@@ -15,7 +15,7 @@
     }
 
    
-    @media (min-width: 319px) and (max-width: 480px) {
+    @media  (min-width: 481px) and (max-width: 1200px){
       .responsive-box {
         background-color: powderblue;
         color: black;
@@ -23,14 +23,14 @@
     }
 
     
-    @media (min-width: 481px) and (max-width: 1200px) {
+    @media (min-width: 1201px) and (max-width: 1600px) {
       .responsive-box {
         background-color: limegreen;
       }
     }
 
    
-    @media (min-width: 1201px)and (max-width: 1600px) {
+    @media (min-width: 1601px) {
       .responsive-box {
         background-color: seagreen;
       }
