@@ -59,8 +59,8 @@ tr:nth-child(even) {
   background-color: #fef1f7;
 }
 
-tr:hover {
-  background-color: #fce4ec;
+.subject-icon {
+  margin-right: 6px;
 }
 
 @media screen and (max-width: 600px) {
